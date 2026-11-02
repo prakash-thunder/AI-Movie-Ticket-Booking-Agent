@@ -1,4 +1,4 @@
-# AI Movie Ticket Booking Agent 🎬
+# AI Movie Ticket Booking Agent 
 
 A simple AI-powered movie booking assistant built with **Python, Hugging Face, LangChain, and LangGraph**. You can chat with it to choose a city, movie, showtime, and number of tickets. The assistant remembers your choices, checks the sample seat availability, and creates a **demo booking** after you confirm.
 
